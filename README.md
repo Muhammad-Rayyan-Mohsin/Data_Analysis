@@ -1,7 +1,5 @@
-# Data_Analysis
-This project conducts an in-depth analysis of happiness scores from the years 2015 to 2019 using Python's pandas, numpy, and matplotlib libraries.
-
 ## Happiness Score Analysis
+This project conducts an in-depth analysis of happiness scores from the years 2015 to 2019 using Python's pandas, numpy, and matplotlib libraries.
 
 # Description:
 This project conducts an in-depth analysis of happiness scores from the years 2015 to 2019 using Python's pandas, numpy, and matplotlib libraries. The analysis includes outlier detection, extraction of specific information such as countries within certain health (life expectancy) ranges, identification of top-ranking countries, calculation of mean happiness scores, correlation analysis between happiness scores and other factors, and region-wise analysis based on economic indicators.
